@@ -1,0 +1,1 @@
+if you can read this it means i've created this repo from Claude's MCP with GitHub's API, and it works like magic
